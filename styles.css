@@ -31,5 +31,6 @@ header{
   background:(0,0,0,0.1);
   color: #fff;
   text-aligh: center ;
-  text-shadow:0 0 5px rgba(0,0,0,0.5)
+  text-shadow:0 0 5px rgba(0,0,0,0.5);
+  padding: 15px;
 }
